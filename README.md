@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @romeshl (Romesh or, Roma for short).
-- 👀 I’m interested in Computer programming.
-- 🌱 I’m currently learning to be a full-stack developer at Mission Ready HQ. (www.missionreadyhq.com) 
-- 💞️ Currently learning HTML, CSS and JS and will soon be looking at React. 
-- 📫 You can reach me via Romesh.Lankathilaka@gmail.com or www.facebook.com/romeshlankathilaka/
+- 👀 I am a coding enthusiast keen on getting into Full-stack development, mobile apps, IoT and Industrial Automation. 
+- 🌱 I am currently following the Advanced Full Stack Developer (Cloud & AL) Accelerator at [Mission Ready HQ](https://www.missionreadyhq.com/)
+- 💞️ Currently exploring HTML, CSS, Javascript, React JS, Node JS, Express JS and MySQL. 
+- 📫 You can reach me via my [LinkedIn Profile](https://www.linkedin.com/in/romesh-lankathilaka/).
 
 <!---
 romeshl/romeshl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
