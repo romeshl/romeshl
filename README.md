@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @romeshl (Romesh or, Roma for short).
 - 👀 I am a coding enthusiast keen on getting into Full-stack development, mobile apps, IoT and Industrial Automation. 
 - 🌱 I am currently following the [Advanced Full Stack Developer (Cloud & AL) Accelerator](https://www.missionreadyhq.com/accelerator/advanced-full-stack-developer) at [Mission Ready HQ](https://www.missionreadyhq.com/)
-- 💞️ Currently exploring HTML, CSS, TailWind CSS, Javascript, React JS, Node JS, Express JS and MySQL. 
+- 💞️ Currently exploring React JS, SvelteKit, HTMX, Node JS, Express, MySQL, MongoDB, Python and GO. 
 - 📫 You can reach me via my [LinkedIn Profile](https://www.linkedin.com/in/romesh-lankathilaka/) or my email, romesh.lankathilaka@gmail.com.
 
 ### My Projects (Latest ones at the top)
